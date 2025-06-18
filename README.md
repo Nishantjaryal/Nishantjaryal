@@ -10,9 +10,11 @@
 
 <h3 align="left">Know about me</h3>
 <ul>
-  <li><a href="https://www.linkedin.com/in/nishant-singh-jaryal/">Linkedin</a></li>
   <li><a href="https://nishantsingh.netlify.app/">Portfolio</a></li>
+  <li><a href="https://www.linkedin.com/in/nishant-singh-jaryal/">Linkedin</a></li>
   <li><a href="https://leetcode.com/u/nishantjaryal/">Leetcode</a></li>
+  <li><a href="https://www.instagram.com/_thescenist/">Instagram</a></li>
+  <li><a href="mailto:nishantjaryal24@gmail.com">nishantjaryal24@gmail.com</a></li>
 </ul>
 <p align="left">
 </p>
