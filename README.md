@@ -10,7 +10,7 @@
 
 
 
-<h3 align="left">Know about me</h3>
+<h3 align="left">Connect with me</h3>
 <ul>
   <li><a href="https://nishantsingh.netlify.app/">Portfolio</a></li>
   <li><a href="https://www.linkedin.com/in/nishant-singh-jaryal/">Linkedin</a></li>
