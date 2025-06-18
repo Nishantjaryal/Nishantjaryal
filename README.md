@@ -5,6 +5,8 @@
 - 🌱 I’m currently making **Projects** 
 - 💻 Problem Solving **DSA & System designing**
 - 📫 How to reach me **nishantjaryal24@gmail.com**
+- Enjoy solitude on 🚀 Leetcode, ✍🏻 write poems and 📗 reading books 
+- 🎨 Love to Draw and 📷 Capture moments
 
 
 
