@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nishant Singh 😎</h1>
+<h1>Hi, I am Nishant Singh 😎</h1>
 <p>A passionate and curious developer driven by clean code, creative problem-solving, and continuous learning. Whether it's building full-stack web applications, optimizing algorithms, or exploring new technologies, I enjoy turning ideas into impactful digital solutions.
 💻 With a strong foundation in C++, Python, JavaScript, and modern frameworks, I focus on writing maintainable, scalable, and efficient code.</p>
 
@@ -7,7 +7,6 @@
 - 📫 How to reach me **nishantjaryal24@gmail.com**
 - Enjoy solitude on 🚀 Leetcode, ✍🏻 write poems and 📗 reading books 
 - 🎨 Love to Draw and 📷 Capture moments
-
 
 
 <h3 align="left">Connect with me</h3>
