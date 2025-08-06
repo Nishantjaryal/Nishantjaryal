@@ -12,8 +12,11 @@
 <h3 align="left">Connect with me</h3>
 <ul>
   <li><a href="https://nishantsingh.netlify.app/">Portfolio</a></li>
+  <li><a href="https://nishantsingh.netlify.app/projects">Projects</a></li>
   <li><a href="https://www.linkedin.com/in/nishant-singh-jaryal/">Linkedin</a></li>
   <li><a href="https://leetcode.com/u/nishantjaryal/">Leetcode</a></li>
+  <li><a href="https://nishantsingh.netlify.app/achievements">Achievements</a></li>
+
 </ul>
 <p align="left">
 </p>
